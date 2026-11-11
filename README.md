@@ -1,7 +1,7 @@
 # GESTURE AI
 ### *"Your Hands. Your Commands. Powered by AI."*
 
-[![Live Website](https://img.shields.io/badge/Live%20Demo-gesture--ai--ten.vercel.app-1677FF?style=for-the-badge&logo=vercel&logoColor=white)](https://gesture-ai-ten.vercel.app)
+[![Live Website](https://img.shields.io/badge/Live%20Demo-joel--gesture--ai.vercel.app-1677FF?style=for-the-badge&logo=vercel&logoColor=white)](https://joel-gesture-ai.vercel.app)
 
 [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
